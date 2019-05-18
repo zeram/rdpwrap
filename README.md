@@ -1,5 +1,6 @@
 # RDP Wrapper Library by Stas'M
 
+[![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/rdpwrap)
 ![Environment](https://img.shields.io/badge/Windows-Vista,%207,%208,%2010-brightgreen.svg)
 [![Release](https://img.shields.io/github/release/stascorp/rdpwrap.svg)](https://github.com/stascorp/rdpwrap/releases)
 ![License](https://img.shields.io/github/license/stascorp/rdpwrap.svg)
@@ -88,6 +89,8 @@ It's recommended to have original termsrv.dll file with the RDP Wrapper installa
 ### Links:
 - Official GitHub repository:
 <br>https://github.com/stascorp/rdpwrap/
+- Official Telegram chat:
+<br>https://t.me/rdpwrap
 - Active discussion in the comments here:
 <br>[Enable remote desktop on Windows 8 core / basic - Andrew Block .net][andrewblock]
 - MDL Projects and Applications thread here:
@@ -282,12 +285,18 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 - 6.0.6002.23521 (Windows Vista SP2 with KB3003743 LDR)
 - 6.1.X.X (Windows 7 / Server 2008 R2)
 - 6.1.7600.16385 (Windows 7)
+- 6.1.7600.20890 (Windows 7 with KB2479710)
+- 6.1.7600.21316 (Windows 7 with KB2750090)
 - 6.1.7601.17514 (Windows 7 SP1)
+- 6.1.7601.21650 (Windows 7 SP1 with KB2479710)
+- 6.1.7601.21866 (Windows 7 SP1 with KB2647409)
+- 6.1.7601.22104 (Windows 7 SP1 with KB2750090)
 - 6.1.7601.18540 (Windows 7 SP1 with KB2984972 GDR)
 - 6.1.7601.22750 (Windows 7 SP1 with KB2984972 LDR)
 - 6.1.7601.18637 (Windows 7 SP1 with KB3003743 GDR)
 - 6.1.7601.22843 (Windows 7 SP1 with KB3003743 LDR)
 - 6.1.7601.23403 (Windows 7 SP1 with KB3125574)
+- 6.1.7601.24234 (Windows 7 SP1 with KB4462923)
 - 6.2.8102.0 (Windows 8 Developer Preview)
 - 6.2.8250.0 (Windows 8 Consumer Preview)
 - 6.2.8400.0 (Windows 8 Release Preview)
@@ -300,6 +309,8 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 - 6.3.9600.17415 (Windows 8.1 with KB3000850)
 - 6.3.9600.18692 (Windows 8.1 with KB4022720)
 - 6.3.9600.18708 (Windows 8.1 with KB4025335)
+- 6.3.9600.18928 (Windows 8.1 with KB4088876)
+- 6.3.9600.19093 (Windows 8.1 with KB4343891)
 - 6.4.9841.0 (Windows 10 Technical Preview)
 - 6.4.9860.0 (Windows 10 Technical Preview Update 1)
 - 6.4.9879.0 (Windows 10 Technical Preview Update 2)
@@ -330,6 +341,7 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 - 10.0.14393.0 (Windows 10 RS1 Release 160715-1616)
 - 10.0.14393.1198 (Windows 10 RS1 Release Sec 170427-1353 with KB4019472)
 - 10.0.14393.1737 (Windows 10 RS1 Release Inmarket 170914-1249 with KB4041691)
+- 10.0.14393.2457 (Windows 10 RS1 Release Inmarket 180822-1743 with KB4343884)
 - 10.0.14901.1000 (Windows 10 RS Pre-Release 160805-1700)
 - 10.0.14905.1000 (Windows 10 RS Pre-Release 160811-1739)
 - 10.0.14915.1000 (Windows 10 RS Pre-Release 160826-1902)
@@ -359,6 +371,8 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 - 10.0.15061.0 (Windows 10 Build 160101.0800)
 - 10.0.15063.0 (Windows 10 Build 160101.0800)
 - 10.0.15063.296 (Windows 10 Build 160101.0800)
+- 10.0.15063.994 (Windows 10 Build 160101.0800)
+- 10.0.15063.1155 (Windows 10 Build 160101.0800)
 - 10.0.16179.1000 (Windows 10 Build 160101.0800)
 - 10.0.16184.1001 (Windows 10 Build 160101.0800)
 - 10.0.16199.1000 (Windows 10 Build 160101.0800)
@@ -388,6 +402,12 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 - 10.0.17035.1000 (Windows 10 Build 160101.0800)
 - 10.0.17046.1000 (Windows 10 Build 160101.0800)
 - 10.0.17063.1000 (Windows 10 Build 160101.0800)
+- 10.0.17115.1 (Windows 10 Build 160101.0800)
+- 10.0.17128.1 (Windows 10 Build 160101.0800)
+- 10.0.17133.1 (Windows 10 Build 160101.0800)
+- 10.0.17134.1 (Windows 10 Build 160101.0800)
+- 10.0.17723.1000 (Windows 10 Build 160101.0800)
+- 10.0.17763.1 (Windows 10 Build 160101.0800)
 
 #### Confirmed working on:
 - Windows Vista Starter (x86 - Service Pack 1 and higher)
