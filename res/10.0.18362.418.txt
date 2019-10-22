@@ -1,0 +1,23 @@
+; https://github.com/stascorp/rdpwrap/issues/902
+; 10.0.18362.418
+; https://support.microsoft.com/en-us/help/4517389
+
+[10.0.18362.418-SLInit]
+bInitialized.x86 =D577C
+bServerSku.x86 =D5780
+lMaxUserSessions.x86 =D5784
+bAppServerAllowed.x86 =D578C
+bRemoteConnAllowed.x86=D5790
+bMultimonAllowed.x86 =D5794
+ulMaxDebugSessions.x86=D5798
+bFUSEnabled.x86 =D579C
+
+bInitialized.x64 =F6A8C
+bServerSku.x64 =F6A90
+lMaxUserSessions.x64 =F6A94
+bAppServerAllowed.x64 =F6A9C
+bRemoteConnAllowed.x64=F6AA0
+bMultimonAllowed.x64 =F6AA4
+ulMaxDebugSessions.x64=F6AA8
+bFUSEnabled.x64 =F6AAC
+
