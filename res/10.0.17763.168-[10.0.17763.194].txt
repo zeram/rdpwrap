@@ -1,6 +1,9 @@
 ; https://github.com/stascorp/rdpwrap/issues/601
 ; https://github.com/stascorp/rdpwrap/issues/606
+; [Version 10.0.17763.168]
 
+; https://github.com/stascorp/rdpwrap/issues/611
+; Works for [Version 10.0.17763.194]
 
 ;---------SNIP part1-----goes just behind (above) the section of 10.0.17763.1 ---
 [10.0.17763.168]
