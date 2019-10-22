@@ -1,4 +1,5 @@
 ; https://github.com/fre4kyC0de/rdpwrap/blob/master/10.0.17134.706.txt
+; Works for 10.17763.475
 [10.0.17134.706]
 LocalOnlyPatch.x86=1
 LocalOnlyOffset.x86=ADAB8
