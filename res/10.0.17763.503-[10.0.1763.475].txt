@@ -1,0 +1,28 @@
+; https://github.com/stascorp/rdpwrap/issues/783
+; https://github.com/stascorp/rdpwrap/issues/744
+; 10.0.17763.475
+; https://github.com/stascorp/rdpwrap/issues/772
+
+[10.0.17763.503]
+LocalOnlyPatch.x64=1
+LocalOnlyOffset.x64=77A41
+LocalOnlyCode.x64=jmpshort
+SingleUserPatch.x64=1
+SingleUserOffset.x64=3E520
+SingleUserCode.x64=Zero
+DefPolicyPatch.x64=1
+DefPolicyOffset.x64=18025
+DefPolicyCode.x64=CDefPolicy_Query_eax_rcx
+SLInitHook.x64=1
+SLInitOffset.x64=1ACDC
+SLInitFunc.x64=New_CSLQuery_Initialize
+
+[10.0.17763.503-SLInit]
+bInitialized.x64      =ECAB0
+bServerSku.x64        =ECAB4
+lMaxUserSessions.x64  =ECAB8
+bAppServerAllowed.x64 =ECAC0
+bRemoteConnAllowed.x64=ECAC4
+bMultimonAllowed.x64  =ECAC8
+ulMaxDebugSessions.x64=ECACC
+bFUSEnabled.x64       =ECAD0
