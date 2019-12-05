@@ -1,6 +1,8 @@
 ; https://github.com/stascorp/rdpwrap/issues/902
 ; 10.0.18362.418
 ; https://support.microsoft.com/en-us/help/4517389
+; 20191205 - NS
+; https://github.com/stascorp/rdpwrap/issues/928
 
 [10.0.18362.418-SLInit]
 bInitialized.x86 =D577C
