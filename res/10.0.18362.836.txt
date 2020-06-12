@@ -1,0 +1,3 @@
+; 10.0.18362.836.txt
+; Win 10 1909
+; https://forums.mydigitallife.net/threads/discussion-windows-10-termsrv-dll-patching.57102/page-11
