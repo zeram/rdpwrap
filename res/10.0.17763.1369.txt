@@ -1,0 +1,5 @@
+; [10.0.17763.1369]
+
+; https://github.com/stascorp/rdpwrap/issues/1128 
+; https://github.com/stascorp/rdpwrap/issues/1143
+
