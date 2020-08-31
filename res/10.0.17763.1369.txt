@@ -1,4 +1,5 @@
 ; [10.0.17763.1369]
+; 20200810 - 20200831
 
 ; https://github.com/stascorp/rdpwrap/issues/1128 
 ; https://github.com/stascorp/rdpwrap/issues/1143
