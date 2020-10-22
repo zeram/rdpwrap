@@ -1,4 +1,5 @@
 ;; 10.0.17134.1304
+;; Win 10 1803
 ;; 20201022-1127
 ;; https://github.com/stascorp/rdpwrap/issues/992
 ;; https://raw.githubusercontent.com/affinityv/INI-RDPWRAP/master/rdpwrap.ini
