@@ -1,5 +1,5 @@
-;10.0.19041.789
-
+; 10.0.19041.789
+; Microsoft Windows [Version 10.0.19042.867]
 ; https://github.com/stascorp/rdpwrap/issues/1317
 
 [10.0.19041.789]
