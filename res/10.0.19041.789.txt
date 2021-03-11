@@ -1,6 +1,8 @@
 ; 10.0.19041.789
+; Windows 20H2
 ; Microsoft Windows [Version 10.0.19042.867]
 ; https://github.com/stascorp/rdpwrap/issues/1317
+; 20210310
 
 [10.0.19041.789]
 LocalOnlyPatch.x86=1
