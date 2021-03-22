@@ -2,8 +2,8 @@
 ; Version=10.0.18362.1316
 ; 20210322-01
 
-; https://github.com/stascorp/rdpwrap/issues/1278#issuecomment-760007826 <-- Use for reference only!!!
-; https://github.com/stascorp/rdpwrap/issues/1272
+; https://github.com/stascorp/rdpwrap/issues/1278#issuecomment-760007826 <-- Use entries from this!!!
+; https://github.com/stascorp/rdpwrap/issues/1272 <-- error in init se4ction
 
 [10.0.18362.1316]
 LocalOnlyPatch.x64=1
@@ -19,6 +19,7 @@ SLInitHook.x64=1
 SLInitOffset.x64=22E9C
 SLInitFunc.x64=New_CSLQuery_Initialize
 
+
 [10.0.18362.1316-SLInit]
 bInitialized.x64      =F6A8C
 bServerSku.x64        =F6A90
@@ -27,4 +28,7 @@ bAppServerAllowed.x64 =F6A9C
 bRemoteConnAllowed.x64=F6AA0
 bMultimonAllowed.x64  =F6AA4
 ulMaxDebugSessions.x64=F6AA8
+bFUSEnabled.x64       =F6AAC
+
+
 
